@@ -8,4 +8,4 @@ Olá! Eu sou a Noemia Jordania👋
 
 <div>
 <a href-"https://github.com/NoemiaGithub">
-<img height="180cm" src="https://github-readme-stats.vercel.app/api?"username=Noemia Github&show_icons-true&theme=dracula&include_all_commits-true&count -private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?"username=Noemia Github&show_icons-true&theme=dracula&include_all_commits-true&count -private=true"/>
