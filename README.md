@@ -10,7 +10,8 @@ Olá! Eu sou a Noemia Jordania👋
 ![NoemiaGitHub GitHub stats](https://github-readme-stats.vercel.app/api?username=NoemiaGitHub&show_icons=true&hide=contribs,prs_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoemiaGitHub&layout=compact&theme=radical)](https://github.com/NoemiaGitHub/github-readme-stats)
 
-https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
+<div style="display: inline_block"><br>
+<img align="center" alt="Rafa-Ts" height="30" width="40" src=https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg
 https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
 https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg
 
