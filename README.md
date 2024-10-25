@@ -6,16 +6,4 @@ Olá! Eu sou a Noemia Jordania👋
 😄 Pronomes: Ela/Dela  
 ⚡ Curiosidades: Sou apaixonada por tecnologia 💻 e passo a semana em plataformas de cursos para me aprimorar. Nas horas vagas, gosto de relaxar em Games de estratégia ♟️, RPGs 🧙‍♀️ e simuladores 🎮!
 
- name: Jobs to update datas
-    runs-on: ubuntu-latest
-    steps:
-      # Summary Cards
-      - uses: actions/checkout@v2
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-      # Snake Animation
-      - uses: Platane/snk@master
-        id: snake-gif
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NoemiaGitHub)](https://github.com/anuraghazra/github-readme-stats)
