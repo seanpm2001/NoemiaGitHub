@@ -5,3 +5,7 @@ Olá! Eu sou a Noemia Jordania👋
 📫 Me encontre no LinkedIn: www.linkedin.com/in/noemia-jordania-53a022251  
 😄 Pronomes: Ela/Dela  
 ⚡ Curiosidades: Sou apaixonada por tecnologia 💻 e passo a semana em plataformas de cursos para me aprimorar. Nas horas vagas, gosto de relaxar em Games de estratégia ♟️, RPGs 🧙‍♀️ e simuladores 🎮!
+
+<div>
+<a href-"https://github.com/NoemiaGithub">
+<img height="180cm" src="https://github-readme-stats.vercel.app/api?"username=Noemia Github&show_icons-true&theme=dracula&include_all_commits-true&count -private=true"/>
