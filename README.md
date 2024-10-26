@@ -24,6 +24,9 @@ Olá! Eu sou a Noemia Jordania👋
 
  ##
 
+https://raw.githubusercontent.com/NoemiaGitHub/output/github-contribution-grid-snake.svg
+
+
 
 
 
