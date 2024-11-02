@@ -9,7 +9,7 @@ Olá! Eu sou a Noemia Jordania👋
 
 ![NoemiaGitHub GitHub stats](https://github-readme-stats.vercel.app/api?username=NoemiaGitHub&rank_icon=github&card_width=300&show_icons=true&hide=contribs,prs_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NoemiaGitHub&layout=compact&theme=radical)](https://github.com/NoemiaGitHub/github-readme-stats)
-<a href="https://ibb.co/6rtTLkK"><img align="center-top" alt="Mia-Ts" height="100" width="100" src="https://i.ibb.co/JkS6rr5/Kawaii-Chibi-Child-Pointing-Finger-Up-Illustration-61834419-1-Photoroomrecortado.png" alt="Kawaii-Chibi-Child-Pointing-Finger-Up-Illustration-61834419-1-Photoroom" border="0"></a>
+<a href="https://ibb.co/6rtTLkK"><img align="center-top" alt="Mia-Ts" height="100" width="100" src="https://i.ibb.co/ryX8554/Kawaii-Chibi-Child-Pointing-Finger-Up-Illustration-61834419-1-Photoroomrecortado.png" alt="Kawaii-Chibi-Child-Pointing-Finger-Up-Illustration-61834419-1-Photoroomrecortado" border="0"></a>
 
 <div style="display: inline_block"><br>
           
